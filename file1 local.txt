@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 changed in barnch1test 1
 comments added for branch1
+=======
+changed made in branch1
+>>>>>>> branch1
